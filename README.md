@@ -15,7 +15,7 @@ Blind XXE Xtractor is a script created for educational purpose to test Blind XXE
 ### 1 Clone the repository
 
 ```bash
-git clone https://github.com/mys3quel/Blind-XXE-Xtractor && chmod +x Blind-XXE-Xtractor.sh
+git clone https://github.com/mys3quel/Blind-XXE-Xtractor && cd Blind-XXE-Xtractor && chmod +x Blind-XXE-Xtractor.sh
 ```
 
 ## Remote configure
